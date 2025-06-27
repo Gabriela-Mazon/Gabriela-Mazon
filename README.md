@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou Gabriela Mazon Rabello de Souza! 👋  
 
-<!--
-**Gabriela-Mazon/Gabriela-Mazon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍🎓 Sobre mim  
+- Estudante de Ciência da Computação na Universidade Federal de Alfenas.  
+- Interesses: Programação, IA, Design, etc.  
+- Atualmente aprendendo: C/C++, HTML/CSS, JavaScript.  
 
-Here are some ideas to get you started:
+### 📚 Disciplinas deste semestre  
+- Lógica Digital
+- AED's I 
+- Introdução a Ciência da Computação
+- Fundamentos Matemáticos
+- Geometria Analítica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contato  
+- LinkedIn: https://www.linkedin.com/in/gabriela-mazon-rabello-de-souza-a4b076372/
+- Gmail: gabriela.rabello@sou.unifal-mg.edu.br
