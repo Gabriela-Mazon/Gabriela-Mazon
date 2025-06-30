@@ -13,5 +13,5 @@
 - Geometria Analítica
 
 ### 📫 Contato  
-- LinkedIn: https://www.linkedin.com/in/gabriela-mazon-rabello-de-souza-a4b076372/
 - Gmail: gabriela.rabello@sou.unifal-mg.edu.br
+- Instagram: https://www.instagram.com/gabimazon1503?igsh=aDduMHY3cXY2aTZq
