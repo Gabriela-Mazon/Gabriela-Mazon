@@ -3,11 +3,11 @@
 ### 👨‍🎓 Sobre mim  
 - Estudante de Ciência da Computação na Universidade Federal de Alfenas.  
 - Interesses: Programação, IA, Design, etc.  
-- Atualmente aprendendo: C/C++, HTML/CSS, JavaScript.  
+- Atualmente aprendendo: C/C++, HTML/CSS, ShellScript.  
 
 ### 📚 Disciplinas deste semestre  
 - Lógica Digital
-- AED's I 
+- AED's I (Prática e teoria)
 - Introdução a Ciência da Computação
 - Fundamentos Matemáticos
 - Geometria Analítica
